@@ -1,0 +1,17 @@
+.main{
+  min-height:83vh;
+}
+.card{
+  width: 18%;
+  margin-bottom: 1rem;
+  background-color: rgba(128, 128, 128, 0.589) !important;
+  border-radius: 15px !important;
+}
+.card :hover{
+  background-color: rgba(128, 128, 128, 0.349);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.103);
+}
+.muallif{
+  position: relative;
+  left:39rem;
+}
